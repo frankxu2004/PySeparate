@@ -1,0 +1,16 @@
+1.Import the text 2.Input the text 3.Seperate the text 4.Add the text to lexicon 5.Update the lexicon 6.Add the word to dictionary 8.Change the seperation algorithm 9.Seperate by sentences? 10.Check the high-frequency words? 11.Lexicon learning? 12.Languages 13.Help 14.Quit
+Please input the file directory: 
+Please input the text: 
+Please input the word No.: (End with "end")
+Input error!
+Save to file? (1=Yes/2=No)
+Please input the directory to save: 
+Please input the sentence No.: (End with "end")
+Please enter the word: (End with "end")
+Please select the algorithm: (1=DFS/2=Dynamic)
+Seperate by sentences? (1=Yes/2=No)
+Check the high-frequency words? (1=Yes/2=No)
+Automatically learn when updating lexicon? (1=Yes/2=No)
+Please select the languages: (1=Simplified Chinese/2=English)
+File not exists!
+GBK only!
